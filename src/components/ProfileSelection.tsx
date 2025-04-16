@@ -11,25 +11,25 @@ const profiles: Profile[] = [
   {
     id: 'recruiter',
     name: 'Recruiter',
-    image: 'src/static/users/Recruiter.jpg',
+    image: 'https://images.unsplash.com/vector-1741097263427-f83d88ebfb0a?q=80&w=3600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     description: 'View my professional experience and achievements'
   },
   {
     id: 'developer',
     name: 'Developer',
-    image: 'src/static/users/Developer.jpg',
+    image: 'https://plus.unsplash.com/premium_vector-1726073390593-0932243c41a3?q=80&w=3600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     description: 'Check out my technical projects and contributions'
   },
   {
     id: 'friends',
     name: 'Friends',
-    image: 'src/static/users/peanut.png',
+    image: 'https://plus.unsplash.com/premium_vector-1734506213041-70ad9ec028e9?q=80&w=3600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     description: 'A more personal look at who I am'
   },
   {
     id: 'stalker',
     name: 'Stalker',
-    image: 'src/static/users/Stalker.jpg',
+    image: 'https://plus.unsplash.com/premium_vector-1727472798445-3a79f4304b8a?q=80&w=3600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     description: 'Just browsing? Start here'
   },
 ];
