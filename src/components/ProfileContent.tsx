@@ -132,7 +132,7 @@ const getProfileContent = (profileId: string) => {
         id: 'h1',
         title: 'Cricket',
         image: 'https://media.istockphoto.com/id/1459955387/photo/cricket-ball-hitting-wicket-stumps-knocking-bails-out.jpg?s=612x612&w=0&k=20&c=CafKqDiLIPCfO6sShpOQ0CUDnXNgX55d0ROyI08Cx1g=',
-        description: 'Competitive cricket league player for Royal Risers, Dallas.',
+        description: 'Competitive cricket league and Captain for Royal Risers Team, Dallas.',
       },
       {
         id: 'h2',
